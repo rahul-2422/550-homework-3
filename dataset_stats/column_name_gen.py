@@ -36,4 +36,10 @@ dataset_subset_path: os.path = os.path.abspath(
 dataset_stats_path: os.path = os.path.abspath(
     "dataset_stats/filtered_dataset_columns.csv"
 )
-extract_column_names(dataset_subset_path, dataset_stats_path)
+individual_subset_path: os.path = os.path.abspath(
+    "dataset_subsets/angel_viz.tsv"
+)
+individual_stats_path: os.path = os.path.abspath(
+    "dataset_stats/angel_viz_columns.csv"
+)
+extract_column_names(individual_subset_path, individual_stats_path)

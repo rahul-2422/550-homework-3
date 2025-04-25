@@ -74,22 +74,24 @@ def filter_tsv_columns(input_tsv_path, output_tsv_path, required_columns):
 required_columns = [
     "Time of Day",
     "Event type",
-    "Apparition Type",
-    "Image/Video/Visual Evidence",
-    "Audio Evidence",
+    # "Apparition Type",
+    # "Image/Video/Visual Evidence",
+    # "Audio Evidence",
     "state",
-    "State% of High School Diploma",
-    "State% of Bachelor's Degree",
-    "State% of Advanced Degree",
-    "Haunted Places Witness Count",
+    # "city",
+    # "Alcohol Abuse Total Death of that State",
+    # "State% of High School Diploma",
+    # "State% of Bachelor's Degree",
+    # "State% of Advanced Degree",
+    # "Haunted Places Witness Count",
     "Combined_Evidence",
     "Witness_Count_Group",
-    "QUANTITY",
-    "TIME",
-    "FAC",
-    "ORG",
-    "LOC",
-    "EVENT",
+    # "QUANTITY",
+    # "TIME",
+    # "FAC",
+    # "ORG",
+    # "LOC",
+    # "EVENT",
 ]
 
 original_tsv_path: os.path = os.path.abspath(
@@ -98,5 +100,10 @@ original_tsv_path: os.path = os.path.abspath(
 dataset_subset_path: os.path = os.path.abspath(
     "dataset_subsets/filtered_dataset.tsv"
 )
+individual_subset_path: os.path = os.path.abspath(
+    "dataset_subsets/rahul_viz.tsv"
+)
 
-filter_tsv_columns(original_tsv_path, dataset_subset_path, required_columns)
+filter_tsv_columns(
+    dataset_subset_path, individual_subset_path, required_columns
+)
