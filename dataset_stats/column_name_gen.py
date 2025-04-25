@@ -31,13 +31,13 @@ original_tsv_path: os.path = os.path.abspath(
     "orginal_dataset/haunted_places_final_all_features.tsv"
 )
 dataset_subset_path: os.path = os.path.abspath(
-    "dataset_subsets/filtered_dataset.tsv"
+    "dataset_subsets/tsv_subsets/filtered_dataset.tsv"
 )
 dataset_stats_path: os.path = os.path.abspath(
     "dataset_stats/filtered_dataset_columns.csv"
 )
 individual_subset_path: os.path = os.path.abspath(
-    "dataset_subsets/angel_viz.tsv"
+    "dataset_subsets/tsv_subsets/angel_viz.tsv"
 )
 individual_stats_path: os.path = os.path.abspath(
     "dataset_stats/angel_viz_columns.csv"
