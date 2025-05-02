@@ -26,3 +26,16 @@ Image Space
 MEMEX GeoParser
 * Led by Evan, other members helped
 
+### Additional Submission Files
+
+The following files are included in the root directory of this repository as part of the assignment submission requirements:
+
+- **`Apache_Solr_Queries.pdf`**  
+  Documents sample Solr queries used to explore the indexed Haunted Places data and validate ingestion. These include keyword-based searches and field-based filters relevant to the TSV dataset.
+
+- **`MEMEX GeoParser Screenshots.pdf`**  
+  Shows example outputs of running the MEMEX GeoParser on location-based fields from the Haunted Places dataset. Screenshots demonstrate extracted entities and geolocation visualizations, addressing Task 5.
+
+- **`imagespace_submission.tar.gz`**  
+  Contains the exported Solr and ImageCat index directories (`solr_index` and `imagecat_index`) from the deployed Image Space system. These were generated after successful ingestion and indexing of a subset of the Haunted Places dataset using SMQTK and the ImageCat pipeline, as initally requested by Task 4c.
+
