@@ -30,6 +30,3 @@ node_modules/
 
 # Other things you want to exclude
 *.bak
-*image_space*
-*girder*
-*etllib*

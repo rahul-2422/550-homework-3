@@ -6,7 +6,7 @@ const VizFrame = ({ filename }) => {
   return (
     <iframe
       title={filename}
-      src={`${process.env.PUBLIC_URL}/visualizations/${filename}`}
+      src={`/visualizations/${filename}`}
       width="100%"
       height={isSankey ? "800px" : "900px"}
       style={{

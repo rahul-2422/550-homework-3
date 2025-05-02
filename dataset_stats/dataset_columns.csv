@@ -1,0 +1,75 @@
+Column Names
+city
+country
+description
+location
+state
+state_abbrev
+longitude
+latitude
+city_longitude
+city_latitude
+Audio Evidence
+Image/Video/Visual Evidence
+Haunted Places Date
+Haunted Places Witness Count
+Time of Day
+Apparition Type
+Event type
+Alcohol Abuse Total Death of that State
+Alcohol % Under 21
+Alcohol Number of Deaths Under 21
+Sunrise
+Sunset
+Daylight Hours
+ZIP Code
+Median Household Income
+Unemployment Rate (%)
+Median Age
+image_id
+image_url
+image_timestamp
+image_altitude
+image_quality_score
+State 25+ Population
+State% of High School Diploma
+State% of Bachelor's Degree
+State% of Advanced Degree
+image_gen_prompt
+image_gen_prompt_rex
+image_file_name
+all_image_caption
+caption_confidence
+all_detected_objects
+objects_confidence
+image_generation
+image_caption
+detected_objects
+parse_text
+Geographic_LATITUDE
+Geographic_LONGITUDE
+Geographic_NAME
+Optional_LATITUDE1
+Optional_LONGITUDE1
+Optional_NAME1
+Optional_LATITUDE2
+Optional_LONGITUDE2
+Optional_NAME2
+LOC
+QUANTITY
+PERSON
+CARDINAL
+TIME
+GPE
+ORDINAL
+LANGUAGE
+NORP
+PERCENT
+WORK_OF_ART
+MONEY
+PRODUCT
+ORG
+DATE
+FAC
+EVENT
+LAW
