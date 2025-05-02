@@ -39,3 +39,27 @@ The following files are included in the root directory of this repository as par
 - **`imagespace_submission.tar.gz`**  
   Contains the exported Solr and ImageCat index directories (`solr_index` and `imagecat_index`) from the deployed Image Space system. These were generated after successful ingestion and indexing of a subset of the Haunted Places dataset using SMQTK and the ImageCat pipeline, as initally requested by Task 4c.
 
+### Project Directory Structure Overview
+
+To support reproducibility and clarity of our pipeline, the following folders are included in the main repository:
+
+- **`frontend/`**  
+  React-based web app showcasing all D3.js visualizations. It includes the `public/visualizations/` folder with preprocessed `.html`, `.json`, and `.js` files, and the React component logic in `src/`.
+
+- **`backend/`**  
+  Contains Python preprocessing scripts, such as `convert_force_graph.py`, used to transform TSV data into D3-compatible JSON formats.
+
+- **`dataset_subsets/`**  
+  Includes specific filtered or cleaned versions of the original dataset, tailored for individual visualizations (e.g., heatmaps, geo graphs).
+
+- **`orginal_dataset/`**  
+  The full Haunted Places dataset in CSV/TSV format as used in Assignments 1 and 2.
+
+- **`dataset_stats/`**  
+  Summary statistics or intermediate TSV/JSON outputs used for visualizations like Angel’s cluster visual (`angel_viz.json`).
+
+- **`GeoParser/`**  
+  Includes outputs and artifacts from running MEMEX GeoParser on the dataset. Note that the `place_holder/` directory is obsolete and can be ignored.
+
+- **`static/`**  
+  Used by the frontend to serve built assets during deployment.
