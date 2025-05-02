@@ -6,7 +6,7 @@ const FILES = {
   "Force Directed Graph": "force_graph.html",
   Heatmap: "heatmap.html",
   "Sankey Diagram": "sankey.html",
-  "Evan's Viz": "sankey.html",
+  "Geo Distribution": "geo_distribution.html",
   "NER Word Cloud": "rohit.html",
 };
 
