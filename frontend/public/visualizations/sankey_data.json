@@ -1,0 +1,2447 @@
+[
+  {
+    "source": "Unexplained Movements and Physical Manifestations",
+    "target": "night",
+    "value": 1034
+  },
+  {
+    "source": "night",
+    "target": "Both",
+    "value": 1955
+  },
+  {
+    "source": "Both",
+    "target": "Michigan",
+    "value": 104
+  },
+  {
+    "source": "Michigan",
+    "target": "1",
+    "value": 110
+  },
+  {
+    "source": "night",
+    "target": "Audio Only",
+    "value": 1488
+  },
+  {
+    "source": "Audio Only",
+    "target": "Pennsylvania",
+    "value": 80
+  },
+  {
+    "source": "Pennsylvania",
+    "target": "1",
+    "value": 123
+  },
+  {
+    "source": "Object and Environmental Manipulation",
+    "target": "night",
+    "value": 466
+  },
+  {
+    "source": "Audio Only",
+    "target": "Georgia",
+    "value": 52
+  },
+  {
+    "source": "Georgia",
+    "target": "0",
+    "value": 46
+  },
+  {
+    "source": "Both",
+    "target": "Texas",
+    "value": 149
+  },
+  {
+    "source": "Texas",
+    "target": "1",
+    "value": 153
+  },
+  {
+    "source": "Sounds and Noises",
+    "target": "night",
+    "value": 541
+  },
+  {
+    "source": "Both",
+    "target": "Kentucky",
+    "value": 77
+  },
+  {
+    "source": "Kentucky",
+    "target": "0",
+    "value": 60
+  },
+  {
+    "source": "Murder",
+    "target": "night",
+    "value": 488
+  },
+  {
+    "source": "Texas",
+    "target": "0",
+    "value": 116
+  },
+  {
+    "source": "Audio Only",
+    "target": "Ohio",
+    "value": 71
+  },
+  {
+    "source": "Ohio",
+    "target": "0",
+    "value": 69
+  },
+  {
+    "source": "Ghostly Sightings",
+    "target": "night",
+    "value": 1035
+  },
+  {
+    "source": "night",
+    "target": "Visual Only",
+    "value": 690
+  },
+  {
+    "source": "Visual Only",
+    "target": "Missouri",
+    "value": 25
+  },
+  {
+    "source": "Missouri",
+    "target": "1",
+    "value": 65
+  },
+  {
+    "source": "Ohio",
+    "target": "1",
+    "value": 101
+  },
+  {
+    "source": "Violent or Tragic Deaths",
+    "target": "night",
+    "value": 739
+  },
+  {
+    "source": "Ohio",
+    "target": "2-5",
+    "value": 23
+  },
+  {
+    "source": "Both",
+    "target": "Pennsylvania",
+    "value": 134
+  },
+  {
+    "source": "Pennsylvania",
+    "target": "6-10",
+    "value": 23
+  },
+  {
+    "source": "Both",
+    "target": "Maryland",
+    "value": 34
+  },
+  {
+    "source": "Maryland",
+    "target": "0",
+    "value": 21
+  },
+  {
+    "source": "Both",
+    "target": "Tennessee",
+    "value": 40
+  },
+  {
+    "source": "Tennessee",
+    "target": "1",
+    "value": 46
+  },
+  {
+    "source": "Both",
+    "target": "Utah",
+    "value": 25
+  },
+  {
+    "source": "Utah",
+    "target": "0",
+    "value": 26
+  },
+  {
+    "source": "Tennessee",
+    "target": "0",
+    "value": 28
+  },
+  {
+    "source": "Both",
+    "target": "Vermont",
+    "value": 9
+  },
+  {
+    "source": "Vermont",
+    "target": "1",
+    "value": 8
+  },
+  {
+    "source": "Both",
+    "target": "Indiana",
+    "value": 65
+  },
+  {
+    "source": "Indiana",
+    "target": "0",
+    "value": 39
+  },
+  {
+    "source": "Unexplained Movements and Physical Manifestations",
+    "target": "evening",
+    "value": 23
+  },
+  {
+    "source": "evening",
+    "target": "Both",
+    "value": 38
+  },
+  {
+    "source": "Pennsylvania",
+    "target": "2-5",
+    "value": 32
+  },
+  {
+    "source": "night",
+    "target": "None",
+    "value": 512
+  },
+  {
+    "source": "None",
+    "target": "South Dakota",
+    "value": 3
+  },
+  {
+    "source": "South Dakota",
+    "target": "0",
+    "value": 12
+  },
+  {
+    "source": "Pennsylvania",
+    "target": "0",
+    "value": 86
+  },
+  {
+    "source": "Indiana",
+    "target": "2-5",
+    "value": 19
+  },
+  {
+    "source": "Audio Only",
+    "target": "Illinois",
+    "value": 52
+  },
+  {
+    "source": "Illinois",
+    "target": "1",
+    "value": 76
+  },
+  {
+    "source": "Texas",
+    "target": "2-5",
+    "value": 37
+  },
+  {
+    "source": "Michigan",
+    "target": "2-5",
+    "value": 30
+  },
+  {
+    "source": "Mysterious Occurrences",
+    "target": "night",
+    "value": 236
+  },
+  {
+    "source": "Texas",
+    "target": "10+",
+    "value": 14
+  },
+  {
+    "source": "Both",
+    "target": "Rhode Island",
+    "value": 12
+  },
+  {
+    "source": "Rhode Island",
+    "target": "1",
+    "value": 13
+  },
+  {
+    "source": "None",
+    "target": "Texas",
+    "value": 30
+  },
+  {
+    "source": "Audio Only",
+    "target": "Virginia",
+    "value": 21
+  },
+  {
+    "source": "Virginia",
+    "target": "1",
+    "value": 32
+  },
+  {
+    "source": "Audio Only",
+    "target": "North Carolina",
+    "value": 35
+  },
+  {
+    "source": "North Carolina",
+    "target": "2-5",
+    "value": 14
+  },
+  {
+    "source": "Audio Only",
+    "target": "Oklahoma",
+    "value": 31
+  },
+  {
+    "source": "Oklahoma",
+    "target": "2-5",
+    "value": 15
+  },
+  {
+    "source": "Audio Only",
+    "target": "Maine",
+    "value": 9
+  },
+  {
+    "source": "Maine",
+    "target": "2-5",
+    "value": 3
+  },
+  {
+    "source": "Kentucky",
+    "target": "1",
+    "value": 80
+  },
+  {
+    "source": "Violent or Tragic Deaths",
+    "target": "morning",
+    "value": 26
+  },
+  {
+    "source": "morning",
+    "target": "Visual Only",
+    "value": 10
+  },
+  {
+    "source": "Visual Only",
+    "target": "Massachusetts",
+    "value": 24
+  },
+  {
+    "source": "Massachusetts",
+    "target": "1",
+    "value": 83
+  },
+  {
+    "source": "Illinois",
+    "target": "2-5",
+    "value": 29
+  },
+  {
+    "source": "Audio Only",
+    "target": "Texas",
+    "value": 120
+  },
+  {
+    "source": "Audio Only",
+    "target": "Michigan",
+    "value": 75
+  },
+  {
+    "source": "Michigan",
+    "target": "6-10",
+    "value": 14
+  },
+  {
+    "source": "Both",
+    "target": "Oregon",
+    "value": 31
+  },
+  {
+    "source": "Oregon",
+    "target": "1",
+    "value": 40
+  },
+  {
+    "source": "Both",
+    "target": "Oklahoma",
+    "value": 51
+  },
+  {
+    "source": "Oklahoma",
+    "target": "6-10",
+    "value": 15
+  },
+  {
+    "source": "Audio Only",
+    "target": "Missouri",
+    "value": 34
+  },
+  {
+    "source": "None",
+    "target": "Kentucky",
+    "value": 20
+  },
+  {
+    "source": "Virginia",
+    "target": "0",
+    "value": 34
+  },
+  {
+    "source": "Audio Only",
+    "target": "Utah",
+    "value": 22
+  },
+  {
+    "source": "Utah",
+    "target": "2-5",
+    "value": 12
+  },
+  {
+    "source": "Audio Only",
+    "target": "Iowa",
+    "value": 23
+  },
+  {
+    "source": "Iowa",
+    "target": "6-10",
+    "value": 8
+  },
+  {
+    "source": "Visual Only",
+    "target": "Georgia",
+    "value": 14
+  },
+  {
+    "source": "Georgia",
+    "target": "6-10",
+    "value": 13
+  },
+  {
+    "source": "Michigan",
+    "target": "0",
+    "value": 85
+  },
+  {
+    "source": "Audio Only",
+    "target": "Nebraska",
+    "value": 19
+  },
+  {
+    "source": "Nebraska",
+    "target": "1",
+    "value": 26
+  },
+  {
+    "source": "Audio Only",
+    "target": "Alabama",
+    "value": 40
+  },
+  {
+    "source": "Alabama",
+    "target": "0",
+    "value": 36
+  },
+  {
+    "source": "Kentucky",
+    "target": "6-10",
+    "value": 10
+  },
+  {
+    "source": "Visual Only",
+    "target": "Illinois",
+    "value": 31
+  },
+  {
+    "source": "Illinois",
+    "target": "0",
+    "value": 63
+  },
+  {
+    "source": "None",
+    "target": "Oregon",
+    "value": 5
+  },
+  {
+    "source": "Fire and Destruction",
+    "target": "night",
+    "value": 106
+  },
+  {
+    "source": "Audio Only",
+    "target": "Indiana",
+    "value": 54
+  },
+  {
+    "source": "Indiana",
+    "target": "1",
+    "value": 66
+  },
+  {
+    "source": "Missouri",
+    "target": "2-5",
+    "value": 20
+  },
+  {
+    "source": "Indiana",
+    "target": "6-10",
+    "value": 20
+  },
+  {
+    "source": "None",
+    "target": "Alaska",
+    "value": 1
+  },
+  {
+    "source": "Alaska",
+    "target": "0",
+    "value": 5
+  },
+  {
+    "source": "Both",
+    "target": "Illinois",
+    "value": 87
+  },
+  {
+    "source": "None",
+    "target": "Tennessee",
+    "value": 12
+  },
+  {
+    "source": "Sounds and Noises",
+    "target": "morning",
+    "value": 12
+  },
+  {
+    "source": "morning",
+    "target": "Both",
+    "value": 58
+  },
+  {
+    "source": "Both",
+    "target": "Hawaii",
+    "value": 11
+  },
+  {
+    "source": "Hawaii",
+    "target": "0",
+    "value": 13
+  },
+  {
+    "source": "Both",
+    "target": "South Carolina",
+    "value": 33
+  },
+  {
+    "source": "South Carolina",
+    "target": "1",
+    "value": 42
+  },
+  {
+    "source": "Visual Only",
+    "target": "Indiana",
+    "value": 19
+  },
+  {
+    "source": "Visual Only",
+    "target": "California",
+    "value": 70
+  },
+  {
+    "source": "California",
+    "target": "0",
+    "value": 139
+  },
+  {
+    "source": "None",
+    "target": "Missouri",
+    "value": 15
+  },
+  {
+    "source": "Visual Only",
+    "target": "North Dakota",
+    "value": 5
+  },
+  {
+    "source": "North Dakota",
+    "target": "10+",
+    "value": 4
+  },
+  {
+    "source": "Audio Only",
+    "target": "New York",
+    "value": 62
+  },
+  {
+    "source": "New York",
+    "target": "6-10",
+    "value": 19
+  },
+  {
+    "source": "Both",
+    "target": "Missouri",
+    "value": 68
+  },
+  {
+    "source": "Missouri",
+    "target": "0",
+    "value": 44
+  },
+  {
+    "source": "None",
+    "target": "Georgia",
+    "value": 18
+  },
+  {
+    "source": "Georgia",
+    "target": "1",
+    "value": 54
+  },
+  {
+    "source": "New York",
+    "target": "0",
+    "value": 72
+  },
+  {
+    "source": "Both",
+    "target": "California",
+    "value": 222
+  },
+  {
+    "source": "California",
+    "target": "2-5",
+    "value": 64
+  },
+  {
+    "source": "Both",
+    "target": "New Jersey",
+    "value": 30
+  },
+  {
+    "source": "New Jersey",
+    "target": "0",
+    "value": 33
+  },
+  {
+    "source": "Visual Only",
+    "target": "Pennsylvania",
+    "value": 37
+  },
+  {
+    "source": "Both",
+    "target": "Georgia",
+    "value": 48
+  },
+  {
+    "source": "Both",
+    "target": "Alabama",
+    "value": 35
+  },
+  {
+    "source": "Alabama",
+    "target": "1",
+    "value": 39
+  },
+  {
+    "source": "Both",
+    "target": "New York",
+    "value": 75
+  },
+  {
+    "source": "Utah",
+    "target": "1",
+    "value": 24
+  },
+  {
+    "source": "Both",
+    "target": "Nebraska",
+    "value": 25
+  },
+  {
+    "source": "Nebraska",
+    "target": "2-5",
+    "value": 10
+  },
+  {
+    "source": "evening",
+    "target": "Audio Only",
+    "value": 25
+  },
+  {
+    "source": "Audio Only",
+    "target": "Kentucky",
+    "value": 56
+  },
+  {
+    "source": "None",
+    "target": "New Hampshire",
+    "value": 7
+  },
+  {
+    "source": "New Hampshire",
+    "target": "0",
+    "value": 11
+  },
+  {
+    "source": "Both",
+    "target": "Minnesota",
+    "value": 26
+  },
+  {
+    "source": "Minnesota",
+    "target": "1",
+    "value": 30
+  },
+  {
+    "source": "Both",
+    "target": "Ohio",
+    "value": 82
+  },
+  {
+    "source": "Visual Only",
+    "target": "Maryland",
+    "value": 9
+  },
+  {
+    "source": "Maryland",
+    "target": "1",
+    "value": 20
+  },
+  {
+    "source": "Audio Only",
+    "target": "California",
+    "value": 148
+  },
+  {
+    "source": "Both",
+    "target": "Iowa",
+    "value": 27
+  },
+  {
+    "source": "Iowa",
+    "target": "1",
+    "value": 36
+  },
+  {
+    "source": "None",
+    "target": "South Carolina",
+    "value": 10
+  },
+  {
+    "source": "New York",
+    "target": "1",
+    "value": 78
+  },
+  {
+    "source": "morning",
+    "target": "None",
+    "value": 20
+  },
+  {
+    "source": "None",
+    "target": "Ohio",
+    "value": 27
+  },
+  {
+    "source": "Ghostly Sightings",
+    "target": "evening",
+    "value": 15
+  },
+  {
+    "source": "Illinois",
+    "target": "6-10",
+    "value": 17
+  },
+  {
+    "source": "California",
+    "target": "1",
+    "value": 221
+  },
+  {
+    "source": "Audio Only",
+    "target": "South Carolina",
+    "value": 27
+  },
+  {
+    "source": "None",
+    "target": "Wyoming",
+    "value": 4
+  },
+  {
+    "source": "Wyoming",
+    "target": "0",
+    "value": 9
+  },
+  {
+    "source": "Ghostly Sightings",
+    "target": "morning",
+    "value": 32
+  },
+  {
+    "source": "None",
+    "target": "Louisiana",
+    "value": 5
+  },
+  {
+    "source": "Louisiana",
+    "target": "1",
+    "value": 20
+  },
+  {
+    "source": "Both",
+    "target": "Arizona",
+    "value": 27
+  },
+  {
+    "source": "Arizona",
+    "target": "0",
+    "value": 25
+  },
+  {
+    "source": "Oklahoma",
+    "target": "1",
+    "value": 41
+  },
+  {
+    "source": "Unexplained Movements and Physical Manifestations",
+    "target": "morning",
+    "value": 29
+  },
+  {
+    "source": "morning",
+    "target": "Audio Only",
+    "value": 49
+  },
+  {
+    "source": "Audio Only",
+    "target": "Minnesota",
+    "value": 22
+  },
+  {
+    "source": "Visual Only",
+    "target": "South Dakota",
+    "value": 5
+  },
+  {
+    "source": "None",
+    "target": "Arkansas",
+    "value": 9
+  },
+  {
+    "source": "Arkansas",
+    "target": "1",
+    "value": 35
+  },
+  {
+    "source": "None",
+    "target": "Minnesota",
+    "value": 7
+  },
+  {
+    "source": "Audio Only",
+    "target": "Hawaii",
+    "value": 10
+  },
+  {
+    "source": "Both",
+    "target": "Washington",
+    "value": 38
+  },
+  {
+    "source": "Washington",
+    "target": "2-5",
+    "value": 13
+  },
+  {
+    "source": "Both",
+    "target": "Virginia",
+    "value": 36
+  },
+  {
+    "source": "Visual Only",
+    "target": "Nebraska",
+    "value": 5
+  },
+  {
+    "source": "None",
+    "target": "California",
+    "value": 39
+  },
+  {
+    "source": "Audio Only",
+    "target": "Florida",
+    "value": 47
+  },
+  {
+    "source": "Florida",
+    "target": "1",
+    "value": 73
+  },
+  {
+    "source": "Visual Only",
+    "target": "Tennessee",
+    "value": 16
+  },
+  {
+    "source": "Visual Only",
+    "target": "Nevada",
+    "value": 6
+  },
+  {
+    "source": "Nevada",
+    "target": "6-10",
+    "value": 2
+  },
+  {
+    "source": "Florida",
+    "target": "0",
+    "value": 41
+  },
+  {
+    "source": "Visual Only",
+    "target": "Texas",
+    "value": 48
+  },
+  {
+    "source": "Both",
+    "target": "Wisconsin",
+    "value": 40
+  },
+  {
+    "source": "Wisconsin",
+    "target": "0",
+    "value": 33
+  },
+  {
+    "source": "Both",
+    "target": "Maine",
+    "value": 6
+  },
+  {
+    "source": "Maine",
+    "target": "1",
+    "value": 10
+  },
+  {
+    "source": "Visual Only",
+    "target": "New York",
+    "value": 31
+  },
+  {
+    "source": "Audio Only",
+    "target": "Kansas",
+    "value": 13
+  },
+  {
+    "source": "Kansas",
+    "target": "0",
+    "value": 16
+  },
+  {
+    "source": "Visual Only",
+    "target": "Florida",
+    "value": 23
+  },
+  {
+    "source": "Both",
+    "target": "Washington DC",
+    "value": 1
+  },
+  {
+    "source": "Washington DC",
+    "target": "1",
+    "value": 1
+  },
+  {
+    "source": "Visual Only",
+    "target": "Ohio",
+    "value": 34
+  },
+  {
+    "source": "New York",
+    "target": "2-5",
+    "value": 20
+  },
+  {
+    "source": "Both",
+    "target": "Kansas",
+    "value": 23
+  },
+  {
+    "source": "Kansas",
+    "target": "1",
+    "value": 19
+  },
+  {
+    "source": "Audio Only",
+    "target": "Montana",
+    "value": 4
+  },
+  {
+    "source": "Montana",
+    "target": "1",
+    "value": 6
+  },
+  {
+    "source": "Both",
+    "target": "Louisiana",
+    "value": 11
+  },
+  {
+    "source": "Louisiana",
+    "target": "0",
+    "value": 15
+  },
+  {
+    "source": "Oklahoma",
+    "target": "0",
+    "value": 37
+  },
+  {
+    "source": "Visual Only",
+    "target": "Iowa",
+    "value": 11
+  },
+  {
+    "source": "Arizona",
+    "target": "2-5",
+    "value": 12
+  },
+  {
+    "source": "Both",
+    "target": "Connecticut",
+    "value": 32
+  },
+  {
+    "source": "Connecticut",
+    "target": "1",
+    "value": 43
+  },
+  {
+    "source": "None",
+    "target": "New York",
+    "value": 29
+  },
+  {
+    "source": "None",
+    "target": "Michigan",
+    "value": 32
+  },
+  {
+    "source": "Audio Only",
+    "target": "Massachusetts",
+    "value": 55
+  },
+  {
+    "source": "Massachusetts",
+    "target": "0",
+    "value": 37
+  },
+  {
+    "source": "None",
+    "target": "Massachusetts",
+    "value": 23
+  },
+  {
+    "source": "California",
+    "target": "6-10",
+    "value": 41
+  },
+  {
+    "source": "Audio Only",
+    "target": "Washington",
+    "value": 33
+  },
+  {
+    "source": "Washington",
+    "target": "1",
+    "value": 43
+  },
+  {
+    "source": "Both",
+    "target": "Colorado",
+    "value": 34
+  },
+  {
+    "source": "Colorado",
+    "target": "0",
+    "value": 24
+  },
+  {
+    "source": "Both",
+    "target": "North Carolina",
+    "value": 47
+  },
+  {
+    "source": "North Carolina",
+    "target": "1",
+    "value": 50
+  },
+  {
+    "source": "Connecticut",
+    "target": "2-5",
+    "value": 5
+  },
+  {
+    "source": "Visual Only",
+    "target": "Arizona",
+    "value": 11
+  },
+  {
+    "source": "Arizona",
+    "target": "1",
+    "value": 26
+  },
+  {
+    "source": "New Hampshire",
+    "target": "6-10",
+    "value": 4
+  },
+  {
+    "source": "Florida",
+    "target": "6-10",
+    "value": 15
+  },
+  {
+    "source": "Washington",
+    "target": "6-10",
+    "value": 10
+  },
+  {
+    "source": "Audio Only",
+    "target": "Arkansas",
+    "value": 25
+  },
+  {
+    "source": "Arkansas",
+    "target": "0",
+    "value": 20
+  },
+  {
+    "source": "Tennessee",
+    "target": "2-5",
+    "value": 10
+  },
+  {
+    "source": "Audio Only",
+    "target": "Tennessee",
+    "value": 26
+  },
+  {
+    "source": "Washington",
+    "target": "0",
+    "value": 25
+  },
+  {
+    "source": "Iowa",
+    "target": "0",
+    "value": 17
+  },
+  {
+    "source": "California",
+    "target": "10+",
+    "value": 14
+  },
+  {
+    "source": "Audio Only",
+    "target": "Arizona",
+    "value": 18
+  },
+  {
+    "source": "Audio Only",
+    "target": "Maryland",
+    "value": 11
+  },
+  {
+    "source": "Maryland",
+    "target": "2-5",
+    "value": 6
+  },
+  {
+    "source": "Both",
+    "target": "Mississippi",
+    "value": 14
+  },
+  {
+    "source": "Mississippi",
+    "target": "2-5",
+    "value": 6
+  },
+  {
+    "source": "Kansas",
+    "target": "2-5",
+    "value": 9
+  },
+  {
+    "source": "Audio Only",
+    "target": "Oregon",
+    "value": 27
+  },
+  {
+    "source": "None",
+    "target": "Illinois",
+    "value": 21
+  },
+  {
+    "source": "North Carolina",
+    "target": "0",
+    "value": 36
+  },
+  {
+    "source": "Missouri",
+    "target": "6-10",
+    "value": 9
+  },
+  {
+    "source": "Michigan",
+    "target": "10+",
+    "value": 13
+  },
+  {
+    "source": "Visual Only",
+    "target": "Oklahoma",
+    "value": 13
+  },
+  {
+    "source": "Audio Only",
+    "target": "Mississippi",
+    "value": 7
+  },
+  {
+    "source": "Mississippi",
+    "target": "1",
+    "value": 9
+  },
+  {
+    "source": "None",
+    "target": "Mississippi",
+    "value": 3
+  },
+  {
+    "source": "Mississippi",
+    "target": "0",
+    "value": 10
+  },
+  {
+    "source": "Audio Only",
+    "target": "Wisconsin",
+    "value": 40
+  },
+  {
+    "source": "Wisconsin",
+    "target": "6-10",
+    "value": 8
+  },
+  {
+    "source": "Nebraska",
+    "target": "0",
+    "value": 11
+  },
+  {
+    "source": "Audio Only",
+    "target": "Idaho",
+    "value": 13
+  },
+  {
+    "source": "Idaho",
+    "target": "0",
+    "value": 11
+  },
+  {
+    "source": "None",
+    "target": "New Mexico",
+    "value": 3
+  },
+  {
+    "source": "New Mexico",
+    "target": "1",
+    "value": 16
+  },
+  {
+    "source": "Murder",
+    "target": "morning",
+    "value": 18
+  },
+  {
+    "source": "None",
+    "target": "Utah",
+    "value": 11
+  },
+  {
+    "source": "Ghostly Sightings",
+    "target": "afternoon",
+    "value": 4
+  },
+  {
+    "source": "afternoon",
+    "target": "Audio Only",
+    "value": 15
+  },
+  {
+    "source": "None",
+    "target": "Nebraska",
+    "value": 5
+  },
+  {
+    "source": "Murder",
+    "target": "evening",
+    "value": 9
+  },
+  {
+    "source": "New Jersey",
+    "target": "1",
+    "value": 36
+  },
+  {
+    "source": "Kentucky",
+    "target": "2-5",
+    "value": 16
+  },
+  {
+    "source": "New Hampshire",
+    "target": "1",
+    "value": 17
+  },
+  {
+    "source": "None",
+    "target": "New Jersey",
+    "value": 10
+  },
+  {
+    "source": "Tennessee",
+    "target": "6-10",
+    "value": 7
+  },
+  {
+    "source": "Audio Only",
+    "target": "New Jersey",
+    "value": 22
+  },
+  {
+    "source": "Florida",
+    "target": "10+",
+    "value": 3
+  },
+  {
+    "source": "Wisconsin",
+    "target": "1",
+    "value": 58
+  },
+  {
+    "source": "Both",
+    "target": "Florida",
+    "value": 68
+  },
+  {
+    "source": "Ohio",
+    "target": "6-10",
+    "value": 18
+  },
+  {
+    "source": "South Carolina",
+    "target": "0",
+    "value": 19
+  },
+  {
+    "source": "Connecticut",
+    "target": "6-10",
+    "value": 11
+  },
+  {
+    "source": "Minnesota",
+    "target": "2-5",
+    "value": 10
+  },
+  {
+    "source": "Sounds and Noises",
+    "target": "afternoon",
+    "value": 3
+  },
+  {
+    "source": "afternoon",
+    "target": "Both",
+    "value": 11
+  },
+  {
+    "source": "Visual Only",
+    "target": "Idaho",
+    "value": 2
+  },
+  {
+    "source": "Idaho",
+    "target": "1",
+    "value": 10
+  },
+  {
+    "source": "Both",
+    "target": "South Dakota",
+    "value": 9
+  },
+  {
+    "source": "South Dakota",
+    "target": "1",
+    "value": 14
+  },
+  {
+    "source": "Louisiana",
+    "target": "6-10",
+    "value": 3
+  },
+  {
+    "source": "Visual Only",
+    "target": "Kansas",
+    "value": 9
+  },
+  {
+    "source": "New York",
+    "target": "10+",
+    "value": 8
+  },
+  {
+    "source": "Visual Only",
+    "target": "Utah",
+    "value": 8
+  },
+  {
+    "source": "New Jersey",
+    "target": "2-5",
+    "value": 8
+  },
+  {
+    "source": "None",
+    "target": "Wisconsin",
+    "value": 16
+  },
+  {
+    "source": "Minnesota",
+    "target": "0",
+    "value": 21
+  },
+  {
+    "source": "Violent or Tragic Deaths",
+    "target": "evening",
+    "value": 13
+  },
+  {
+    "source": "Visual Only",
+    "target": "Montana",
+    "value": 2
+  },
+  {
+    "source": "South Carolina",
+    "target": "10+",
+    "value": 5
+  },
+  {
+    "source": "Both",
+    "target": "West Virginia",
+    "value": 18
+  },
+  {
+    "source": "West Virginia",
+    "target": "0",
+    "value": 13
+  },
+  {
+    "source": "Pennsylvania",
+    "target": "10+",
+    "value": 12
+  },
+  {
+    "source": "None",
+    "target": "Virginia",
+    "value": 12
+  },
+  {
+    "source": "Colorado",
+    "target": "1",
+    "value": 37
+  },
+  {
+    "source": "Visual Only",
+    "target": "Colorado",
+    "value": 15
+  },
+  {
+    "source": "Visual Only",
+    "target": "New Jersey",
+    "value": 16
+  },
+  {
+    "source": "Visual Only",
+    "target": "Michigan",
+    "value": 41
+  },
+  {
+    "source": "None",
+    "target": "Arizona",
+    "value": 12
+  },
+  {
+    "source": "Visual Only",
+    "target": "South Carolina",
+    "value": 9
+  },
+  {
+    "source": "Nebraska",
+    "target": "6-10",
+    "value": 7
+  },
+  {
+    "source": "Both",
+    "target": "Massachusetts",
+    "value": 47
+  },
+  {
+    "source": "Massachusetts",
+    "target": "2-5",
+    "value": 18
+  },
+  {
+    "source": "Audio Only",
+    "target": "Connecticut",
+    "value": 22
+  },
+  {
+    "source": "Texas",
+    "target": "6-10",
+    "value": 27
+  },
+  {
+    "source": "Visual Only",
+    "target": "Arkansas",
+    "value": 8
+  },
+  {
+    "source": "Arkansas",
+    "target": "6-10",
+    "value": 4
+  },
+  {
+    "source": "North Carolina",
+    "target": "6-10",
+    "value": 4
+  },
+  {
+    "source": "None",
+    "target": "Pennsylvania",
+    "value": 25
+  },
+  {
+    "source": "Visual Only",
+    "target": "Kentucky",
+    "value": 18
+  },
+  {
+    "source": "None",
+    "target": "Florida",
+    "value": 10
+  },
+  {
+    "source": "Florida",
+    "target": "2-5",
+    "value": 16
+  },
+  {
+    "source": "evening",
+    "target": "Visual Only",
+    "value": 9
+  },
+  {
+    "source": "Visual Only",
+    "target": "Wisconsin",
+    "value": 19
+  },
+  {
+    "source": "Colorado",
+    "target": "6-10",
+    "value": 4
+  },
+  {
+    "source": "Audio Only",
+    "target": "North Dakota",
+    "value": 9
+  },
+  {
+    "source": "North Dakota",
+    "target": "1",
+    "value": 12
+  },
+  {
+    "source": "Both",
+    "target": "Arkansas",
+    "value": 24
+  },
+  {
+    "source": "Visual Only",
+    "target": "Vermont",
+    "value": 2
+  },
+  {
+    "source": "Vermont",
+    "target": "0",
+    "value": 9
+  },
+  {
+    "source": "Audio Only",
+    "target": "New Hampshire",
+    "value": 16
+  },
+  {
+    "source": "Audio Only",
+    "target": "Colorado",
+    "value": 26
+  },
+  {
+    "source": "Virginia",
+    "target": "2-5",
+    "value": 9
+  },
+  {
+    "source": "None",
+    "target": "Washington",
+    "value": 11
+  },
+  {
+    "source": "North Carolina",
+    "target": "10+",
+    "value": 3
+  },
+  {
+    "source": "Both",
+    "target": "Delaware",
+    "value": 7
+  },
+  {
+    "source": "Delaware",
+    "target": "1",
+    "value": 6
+  },
+  {
+    "source": "Georgia",
+    "target": "2-5",
+    "value": 14
+  },
+  {
+    "source": "None",
+    "target": "Colorado",
+    "value": 5
+  },
+  {
+    "source": "Washington",
+    "target": "10+",
+    "value": 4
+  },
+  {
+    "source": "None",
+    "target": "Oklahoma",
+    "value": 14
+  },
+  {
+    "source": "None",
+    "target": "Maine",
+    "value": 3
+  },
+  {
+    "source": "Both",
+    "target": "North Dakota",
+    "value": 15
+  },
+  {
+    "source": "None",
+    "target": "Alabama",
+    "value": 8
+  },
+  {
+    "source": "Colorado",
+    "target": "2-5",
+    "value": 13
+  },
+  {
+    "source": "None",
+    "target": "Connecticut",
+    "value": 9
+  },
+  {
+    "source": "Connecticut",
+    "target": "0",
+    "value": 19
+  },
+  {
+    "source": "Both",
+    "target": "Montana",
+    "value": 5
+  },
+  {
+    "source": "Montana",
+    "target": "10+",
+    "value": 1
+  },
+  {
+    "source": "Oregon",
+    "target": "0",
+    "value": 20
+  },
+  {
+    "source": "Audio Only",
+    "target": "South Dakota",
+    "value": 13
+  },
+  {
+    "source": "Visual Only",
+    "target": "New Hampshire",
+    "value": 3
+  },
+  {
+    "source": "Mysterious Occurrences",
+    "target": "morning",
+    "value": 14
+  },
+  {
+    "source": "None",
+    "target": "North Carolina",
+    "value": 12
+  },
+  {
+    "source": "Wisconsin",
+    "target": "10+",
+    "value": 4
+  },
+  {
+    "source": "Object and Environmental Manipulation",
+    "target": "morning",
+    "value": 5
+  },
+  {
+    "source": "West Virginia",
+    "target": "10+",
+    "value": 2
+  },
+  {
+    "source": "Massachusetts",
+    "target": "10+",
+    "value": 6
+  },
+  {
+    "source": "afternoon",
+    "target": "Visual Only",
+    "value": 5
+  },
+  {
+    "source": "Rhode Island",
+    "target": "2-5",
+    "value": 6
+  },
+  {
+    "source": "Kentucky",
+    "target": "10+",
+    "value": 5
+  },
+  {
+    "source": "Alabama",
+    "target": "10+",
+    "value": 5
+  },
+  {
+    "source": "Visual Only",
+    "target": "Washington",
+    "value": 13
+  },
+  {
+    "source": "Unexplained Movements and Physical Manifestations",
+    "target": "afternoon",
+    "value": 8
+  },
+  {
+    "source": "afternoon",
+    "target": "None",
+    "value": 2
+  },
+  {
+    "source": "Mississippi",
+    "target": "6-10",
+    "value": 2
+  },
+  {
+    "source": "Delaware",
+    "target": "6-10",
+    "value": 1
+  },
+  {
+    "source": "Visual Only",
+    "target": "North Carolina",
+    "value": 13
+  },
+  {
+    "source": "Visual Only",
+    "target": "Connecticut",
+    "value": 16
+  },
+  {
+    "source": "Nevada",
+    "target": "0",
+    "value": 7
+  },
+  {
+    "source": "Audio Only",
+    "target": "West Virginia",
+    "value": 15
+  },
+  {
+    "source": "Oregon",
+    "target": "2-5",
+    "value": 5
+  },
+  {
+    "source": "None",
+    "target": "Idaho",
+    "value": 4
+  },
+  {
+    "source": "Idaho",
+    "target": "2-5",
+    "value": 8
+  },
+  {
+    "source": "None",
+    "target": "Iowa",
+    "value": 11
+  },
+  {
+    "source": "Audio Only",
+    "target": "New Mexico",
+    "value": 10
+  },
+  {
+    "source": "New Mexico",
+    "target": "0",
+    "value": 16
+  },
+  {
+    "source": "Nevada",
+    "target": "1",
+    "value": 5
+  },
+  {
+    "source": "None",
+    "target": "Hawaii",
+    "value": 4
+  },
+  {
+    "source": "Montana",
+    "target": "0",
+    "value": 2
+  },
+  {
+    "source": "Audio Only",
+    "target": "Wyoming",
+    "value": 11
+  },
+  {
+    "source": "Wyoming",
+    "target": "6-10",
+    "value": 1
+  },
+  {
+    "source": "Visual Only",
+    "target": "Oregon",
+    "value": 9
+  },
+  {
+    "source": "Audio Only",
+    "target": "Louisiana",
+    "value": 22
+  },
+  {
+    "source": "Louisiana",
+    "target": "2-5",
+    "value": 5
+  },
+  {
+    "source": "Violent or Tragic Deaths",
+    "target": "afternoon",
+    "value": 6
+  },
+  {
+    "source": "Georgia",
+    "target": "10+",
+    "value": 5
+  },
+  {
+    "source": "Wisconsin",
+    "target": "2-5",
+    "value": 12
+  },
+  {
+    "source": "Both",
+    "target": "New Mexico",
+    "value": 20
+  },
+  {
+    "source": "Visual Only",
+    "target": "Minnesota",
+    "value": 13
+  },
+  {
+    "source": "West Virginia",
+    "target": "1",
+    "value": 22
+  },
+  {
+    "source": "Murder",
+    "target": "afternoon",
+    "value": 7
+  },
+  {
+    "source": "Visual Only",
+    "target": "Louisiana",
+    "value": 5
+  },
+  {
+    "source": "Visual Only",
+    "target": "Virginia",
+    "value": 11
+  },
+  {
+    "source": "Virginia",
+    "target": "10+",
+    "value": 2
+  },
+  {
+    "source": "Both",
+    "target": "Nevada",
+    "value": 2
+  },
+  {
+    "source": "Alabama",
+    "target": "2-5",
+    "value": 8
+  },
+  {
+    "source": "Visual Only",
+    "target": "Hawaii",
+    "value": 3
+  },
+  {
+    "source": "Hawaii",
+    "target": "1",
+    "value": 10
+  },
+  {
+    "source": "Audio Only",
+    "target": "Vermont",
+    "value": 7
+  },
+  {
+    "source": "Vermont",
+    "target": "10+",
+    "value": 3
+  },
+  {
+    "source": "Illinois",
+    "target": "10+",
+    "value": 6
+  },
+  {
+    "source": "Wyoming",
+    "target": "1",
+    "value": 13
+  },
+  {
+    "source": "Montana",
+    "target": "2-5",
+    "value": 1
+  },
+  {
+    "source": "Audio Only",
+    "target": "Nevada",
+    "value": 7
+  },
+  {
+    "source": "Audio Only",
+    "target": "Delaware",
+    "value": 4
+  },
+  {
+    "source": "Alabama",
+    "target": "6-10",
+    "value": 5
+  },
+  {
+    "source": "Sounds and Noises",
+    "target": "evening",
+    "value": 9
+  },
+  {
+    "source": "Object and Environmental Manipulation",
+    "target": "evening",
+    "value": 2
+  },
+  {
+    "source": "Both",
+    "target": "New Hampshire",
+    "value": 13
+  },
+  {
+    "source": "South Carolina",
+    "target": "2-5",
+    "value": 11
+  },
+  {
+    "source": "Visual Only",
+    "target": "Alabama",
+    "value": 10
+  },
+  {
+    "source": "Maryland",
+    "target": "6-10",
+    "value": 8
+  },
+  {
+    "source": "Delaware",
+    "target": "0",
+    "value": 7
+  },
+  {
+    "source": "Utah",
+    "target": "6-10",
+    "value": 4
+  },
+  {
+    "source": "North Dakota",
+    "target": "0",
+    "value": 9
+  },
+  {
+    "source": "None",
+    "target": "North Dakota",
+    "value": 3
+  },
+  {
+    "source": "North Dakota",
+    "target": "6-10",
+    "value": 2
+  },
+  {
+    "source": "Both",
+    "target": "Wyoming",
+    "value": 9
+  },
+  {
+    "source": "New Jersey",
+    "target": "6-10",
+    "value": 1
+  },
+  {
+    "source": "Both",
+    "target": "Idaho",
+    "value": 12
+  },
+  {
+    "source": "Hawaii",
+    "target": "2-5",
+    "value": 3
+  },
+  {
+    "source": "None",
+    "target": "Kansas",
+    "value": 5
+  },
+  {
+    "source": "None",
+    "target": "Maryland",
+    "value": 3
+  },
+  {
+    "source": "South Carolina",
+    "target": "6-10",
+    "value": 2
+  },
+  {
+    "source": "Tennessee",
+    "target": "10+",
+    "value": 3
+  },
+  {
+    "source": "Iowa",
+    "target": "2-5",
+    "value": 9
+  },
+  {
+    "source": "None",
+    "target": "Rhode Island",
+    "value": 2
+  },
+  {
+    "source": "Rhode Island",
+    "target": "0",
+    "value": 5
+  },
+  {
+    "source": "West Virginia",
+    "target": "2-5",
+    "value": 2
+  },
+  {
+    "source": "evening",
+    "target": "None",
+    "value": 8
+  },
+  {
+    "source": "None",
+    "target": "Nevada",
+    "value": 4
+  },
+  {
+    "source": "Arkansas",
+    "target": "2-5",
+    "value": 6
+  },
+  {
+    "source": "Maryland",
+    "target": "10+",
+    "value": 2
+  },
+  {
+    "source": "Iowa",
+    "target": "10+",
+    "value": 2
+  },
+  {
+    "source": "Massachusetts",
+    "target": "6-10",
+    "value": 5
+  },
+  {
+    "source": "Wyoming",
+    "target": "2-5",
+    "value": 5
+  },
+  {
+    "source": "Oregon",
+    "target": "10+",
+    "value": 1
+  },
+  {
+    "source": "Maine",
+    "target": "0",
+    "value": 9
+  },
+  {
+    "source": "North Dakota",
+    "target": "2-5",
+    "value": 5
+  },
+  {
+    "source": "Kansas",
+    "target": "6-10",
+    "value": 4
+  },
+  {
+    "source": "Mysterious Occurrences",
+    "target": "evening",
+    "value": 6
+  },
+  {
+    "source": "Visual Only",
+    "target": "Maine",
+    "value": 6
+  },
+  {
+    "source": "Audio Only",
+    "target": "Alaska",
+    "value": 2
+  },
+  {
+    "source": "Audio Only",
+    "target": "Rhode Island",
+    "value": 8
+  },
+  {
+    "source": "Rhode Island",
+    "target": "6-10",
+    "value": 2
+  },
+  {
+    "source": "Visual Only",
+    "target": "West Virginia",
+    "value": 5
+  },
+  {
+    "source": "Montana",
+    "target": "6-10",
+    "value": 1
+  },
+  {
+    "source": "Visual Only",
+    "target": "Rhode Island",
+    "value": 5
+  },
+  {
+    "source": "None",
+    "target": "Indiana",
+    "value": 10
+  },
+  {
+    "source": "Minnesota",
+    "target": "6-10",
+    "value": 6
+  },
+  {
+    "source": "Ohio",
+    "target": "10+",
+    "value": 3
+  },
+  {
+    "source": "Visual Only",
+    "target": "New Mexico",
+    "value": 3
+  },
+  {
+    "source": "Arkansas",
+    "target": "10+",
+    "value": 1
+  },
+  {
+    "source": "Visual Only",
+    "target": "Delaware",
+    "value": 4
+  },
+  {
+    "source": "None",
+    "target": "West Virginia",
+    "value": 6
+  },
+  {
+    "source": "West Virginia",
+    "target": "6-10",
+    "value": 5
+  },
+  {
+    "source": "Virginia",
+    "target": "6-10",
+    "value": 3
+  },
+  {
+    "source": "Colorado",
+    "target": "10+",
+    "value": 2
+  },
+  {
+    "source": "Object and Environmental Manipulation",
+    "target": "afternoon",
+    "value": 4
+  },
+  {
+    "source": "Missouri",
+    "target": "10+",
+    "value": 4
+  },
+  {
+    "source": "Visual Only",
+    "target": "Wyoming",
+    "value": 4
+  },
+  {
+    "source": "Idaho",
+    "target": "6-10",
+    "value": 2
+  },
+  {
+    "source": "Visual Only",
+    "target": "Mississippi",
+    "value": 3
+  },
+  {
+    "source": "Both",
+    "target": "Alaska",
+    "value": 4
+  },
+  {
+    "source": "None",
+    "target": "Vermont",
+    "value": 3
+  },
+  {
+    "source": "Arizona",
+    "target": "6-10",
+    "value": 5
+  },
+  {
+    "source": "Nevada",
+    "target": "2-5",
+    "value": 3
+  },
+  {
+    "source": "Oregon",
+    "target": "6-10",
+    "value": 6
+  },
+  {
+    "source": "Minnesota",
+    "target": "10+",
+    "value": 1
+  },
+  {
+    "source": "Visual Only",
+    "target": "Alaska",
+    "value": 2
+  },
+  {
+    "source": "New Hampshire",
+    "target": "10+",
+    "value": 3
+  },
+  {
+    "source": "New Hampshire",
+    "target": "2-5",
+    "value": 4
+  },
+  {
+    "source": "Fire and Destruction",
+    "target": "evening",
+    "value": 3
+  },
+  {
+    "source": "Mysterious Occurrences",
+    "target": "afternoon",
+    "value": 1
+  },
+  {
+    "source": "Rhode Island",
+    "target": "10+",
+    "value": 1
+  },
+  {
+    "source": "Delaware",
+    "target": "10+",
+    "value": 1
+  },
+  {
+    "source": "Fire and Destruction",
+    "target": "morning",
+    "value": 1
+  },
+  {
+    "source": "Event type",
+    "target": "Time of Day",
+    "value": 1
+  },
+  {
+    "source": "Time of Day",
+    "target": "Combined_Evidence",
+    "value": 1
+  },
+  {
+    "source": "Combined_Evidence",
+    "target": "state",
+    "value": 1
+  },
+  {
+    "source": "state",
+    "target": "Witness_Count_Group",
+    "value": 1
+  },
+  {
+    "source": "Indiana",
+    "target": "10+",
+    "value": 4
+  },
+  {
+    "source": "Alaska",
+    "target": "1",
+    "value": 3
+  },
+  {
+    "source": "Maine",
+    "target": "6-10",
+    "value": 2
+  },
+  {
+    "source": "New Mexico",
+    "target": "6-10",
+    "value": 2
+  },
+  {
+    "source": "New Mexico",
+    "target": "2-5",
+    "value": 2
+  },
+  {
+    "source": "None",
+    "target": "Delaware",
+    "value": 1
+  },
+  {
+    "source": "Vermont",
+    "target": "6-10",
+    "value": 1
+  },
+  {
+    "source": "Nevada",
+    "target": "10+",
+    "value": 2
+  },
+  {
+    "source": "South Dakota",
+    "target": "2-5",
+    "value": 4
+  },
+  {
+    "source": "Kansas",
+    "target": "10+",
+    "value": 2
+  },
+  {
+    "source": "Connecticut",
+    "target": "10+",
+    "value": 1
+  },
+  {
+    "source": "Delaware",
+    "target": "2-5",
+    "value": 1
+  },
+  {
+    "source": "Audio Only",
+    "target": "Washington DC",
+    "value": 1
+  },
+  {
+    "source": "Washington DC",
+    "target": "2-5",
+    "value": 1
+  },
+  {
+    "source": "Oklahoma",
+    "target": "10+",
+    "value": 1
+  },
+  {
+    "source": "Hawaii",
+    "target": "10+",
+    "value": 1
+  },
+  {
+    "source": "Hawaii",
+    "target": "6-10",
+    "value": 1
+  },
+  {
+    "source": "Alaska",
+    "target": "10+",
+    "value": 1
+  }
+]
